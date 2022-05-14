@@ -22,16 +22,29 @@
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
+:arrow_up: [К оглавлению](https://github.com/darksun373/sf_data_science/tree/main/project%200/README_project_0.md#Оглавление)
+
+
 **Условия соревнования**
 - Компьютер загадывает число от 1 до 100, и нам нужно его угадать. Под "угадать" подразумевается "написать программу, которая угадывает число"
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам
 
+:arrow_up: [К оглавлению](https://github.com/darksun373/sf_data_science/tree/main/project%200/README_project_0.md#Оглавление)
+
+
 **Метрика качества**
 Результаты оцениваются по среднему числу попыток при 1000 повторений
+
+:arrow_up: [К оглавлению](https://github.com/darksun373/sf_data_science/tree/main/project%200/README_project_0.md#Оглавление)
+
 
 **Что практикуем**
 Учимся писать хороший код на Python
 
+:arrow_up: [К оглавлению](https://github.com/darksun373/sf_data_science/tree/main/project%200/README_project_0.md#Оглавление)
+
+
 ### Краткая информация о данных
 ...
 
+:arrow_up: [К оглавлению](https://github.com/darksun373/sf_data_science/tree/main/project%200/README_project_0.md#Оглавление)
