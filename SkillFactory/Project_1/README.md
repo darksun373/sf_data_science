@@ -1,7 +1,7 @@
 # Project 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
+[1. Описание проекта](https://github.com/IlyaPolunn/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
 [3. Результаты](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Результаты)    
 
