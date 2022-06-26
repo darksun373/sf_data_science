@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Какой-кейс-решаем)  
-[3. Результаты]https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Результаты)    
+[3. Результаты](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Результаты)    
 
 
 ### Описание проекта    
@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами]https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/Project_1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/Project_1.ipynb)
 
 :arrow_up:[K оглавлению](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Оглавление)
