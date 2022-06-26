@@ -1,15 +1,15 @@
 # Project 1. Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/IlyaPolunn/SF_DST78_homework/blob/main/homework_1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Результаты)    
+[1. Описание проекта](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Какой-кейс-решаем)  
+[3. Результаты]https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Результаты)    
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -20,7 +20,7 @@
 
 **Условия соревнования:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Требования-к-оформлению-ноутбука).
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
@@ -39,6 +39,6 @@
 работу с данными и оформление отчетов с помощью средств python 
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
+[Ноутбук с выполненными заданиями и выводами]https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/Project_1.ipynb)
 
-:arrow_up:[K оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[K оглавлению](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Оглавление)
