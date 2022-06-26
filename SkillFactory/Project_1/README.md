@@ -41,4 +41,4 @@
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/Project_1_HeadHunter_df.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
+:arrow_up:[K оглавлению](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Оглавление)
