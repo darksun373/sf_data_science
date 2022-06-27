@@ -40,7 +40,9 @@
 
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/Project_1.ipynb)
+
 [Папка с графиками в формате html](https://drive.google.com/drive/folders/1gmMNGfrNeXwFq-46fK7va1Wo2HVoFcMy?usp=sharing)
+
 [Таблицы данных](https://drive.google.com/drive/folders/1gjPslHEA1OFiQgLlcrMRchFmY21wcUC8?usp=sharing)
 
 :arrow_up:[K оглавлению](https://github.com/darksun373/sf_data_science/blob/main/SkillFactory/Project_1/README.md#Оглавление)
